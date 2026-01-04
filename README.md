@@ -1,13 +1,11 @@
-# Monorepo
+# Workbench
 
-A personal monorepo for my public-facing digital work.
-
-These projects are primarily intended for personal utility, learning, and research. Any project that evolves beyond this scope, or gains community traction, will be moved to its own repository for easier collaboration.
+My personal public-facing workspace.
 
 ## Directory structure
 
-- `archive/`: completed projects
-- `desktop/`: workspaces for ongoing projects
-- `notebook/`: personal knowledge management
-- `toolbox/`: personal tooling
-- `website/`: personal website
+- `1_desktop/`: active projects
+- `2_notebook/`: organized knowledge reusable across multiple projects
+- `3_toolbox/`: maintained tooling reusable across multiple projects
+- `4_website/`: polished work publication
+- `5_archive/`: inactive projects
